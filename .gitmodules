@@ -8,3 +8,8 @@
 	url = https://github.com/lorenzwalthert/precommit
 	shallow = true
 	registered = true
+[submodule "styler"]
+	path = styler
+	url = https://github.com/r-lib/styler
+	shallow = true
+	registered = false
